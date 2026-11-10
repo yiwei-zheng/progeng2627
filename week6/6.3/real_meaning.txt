@@ -1,0 +1,4 @@
+exclusive    expensive
+cosy         small
+bedsit       room
+quiet        remote
